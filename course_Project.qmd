@@ -2,10 +2,6 @@
 title: "HKUST course Project"
 format: html
 
-excute:
-    echo: false
-    message: false
-    warning: false
 ---
 
 In this project, our group aims to verify whether receiving education, and to what extent, is the main factor to being employed.
