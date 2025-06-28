@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About me",
+    "section": "",
+    "text": "I am Chiu Fung Cheung, Alfred. I’m an aspiring data analyst with a background in industrial engineering, experienced in using Python, SQL, and Power BI to turn data into actionable insights and process improvements."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "CV\nDownload the report"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Project",
+    "section": "",
+    "text": "About this site HIHIHI"
+  },
+  {
+    "objectID": "FYP.html",
+    "href": "FYP.html",
+    "title": "FYP",
+    "section": "",
+    "text": "Final Year Project: Cathay Pacific - Powerplant storage and logistics strategy\nOptimize engine movement across multiple sites in and out of Hong Kong, which involves engine removal plan, shop visit planning, shipping and storage considerations, etc.\nDownload the report"
+  }
+]
