@@ -7,4 +7,4 @@ format: html
 
 Optimize engine movement across multiple sites in and out of Hong Kong, which involves engine removal plan, shop visit planning, shipping and storage considerations, etc.
 
-[Download the report](files/my_report.pdf)
+[Download the report](https://github.com/AlfredCheung2121/Project/blob/main/FYP%20Final%20Report.pdf)

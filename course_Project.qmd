@@ -1,5 +1,20 @@
 ---
 title: "HKUST course Project"
 format: html
+
+excute:
+    echo: false
+    message: false
+    warning: false
 ---
 
+In this project, our group aims to verify whether receiving education, and to what extent, is the main factor to being employed.
+
+For this project, we will make a few assumptions:
+- the prevalence and affluene of a country's education system is directly linked to the overall literacy rate, as well as mean years of school for both men and women
+
+Our hypothesis for this conjecture is that the greater prevalence and affluence of a country's education system, the higher their employment rate will be.
+
+
+
+[Download the report](https://github.com/AlfredCheung2121/Project/blob/main/FYP%20Final%20Report.pdf)
