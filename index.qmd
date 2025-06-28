@@ -1,7 +1,6 @@
 ---
-title: "Alfred Cheung"
+title: "About me"
 ---
 
-This is a Alfred Cheung.
+I am Chiu Fung Cheung, Alfred. I’m an aspiring data analyst with a background in industrial engineering, experienced in using Python, SQL, and Power BI to turn data into actionable insights and process improvements. 
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.

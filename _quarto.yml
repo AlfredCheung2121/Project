@@ -5,12 +5,14 @@ website:
   title: "Alfred Cheung"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
-      - href: FYP.qmd
-        text: FYP
-      
+      - text: Project
+        menu:
+          - href: FYP.qmd
+            text: Final Year Project
+          - href: course_Project.qmd
+            text: course Project
+      - href: cv.qmd
+        text: CV
 
 format:
   html:

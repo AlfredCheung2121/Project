@@ -3,4 +3,8 @@ title: "FYP"
 format: html
 ---
 
-Here is my FYPPPPP.
+**Final Year Project: Cathay Pacific - Powerplant storage and logistics strategy**
+
+Optimize engine movement across multiple sites in and out of Hong Kong, which involves engine removal plan, shop visit planning, shipping and storage considerations, etc.
+
+[Download the report](files/my_report.pdf)
